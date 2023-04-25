@@ -1,66 +1,197 @@
-[25.04.2023 19:35:20,831] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5191189612879172 / 0.5191189612879172) + (x * (x * (0.49954679926087847 - (x - (0.49954679926087847 - (x - (x * x)))))))
-[25.04.2023 19:35:20,831] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 8
-[25.04.2023 19:35:20,831] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 2202, memory free: 94.5 MB
-[25.04.2023 19:35:20,831] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
-[25.04.2023 19:35:20,831] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5191189612879172 / 0.5191189612879172) + (x * (x * (0.49954679926087847 - (x - (0.49954679926087847 - (x - (x * x)))))))
-[25.04.2023 19:35:20,831] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 8
-[25.04.2023 19:35:20,831] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 2203, memory free: 94.5 MB
-[25.04.2023 19:35:20,832] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
-[25.04.2023 19:35:20,832] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5191189612879172 / 0.5191189612879172) + (x * (x * (0.49954679926087847 - (x - (0.49954679926087847 - (x - (x * x)))))))
-[25.04.2023 19:35:20,832] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 8
-[25.04.2023 19:35:20,832] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 2204, memory free: 94.5 MB
-[25.04.2023 19:35:20,832] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
-[25.04.2023 19:35:20,832] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5191189612879172 / 0.5191189612879172) + (x * (x * (0.49954679926087847 - (x - (0.49954679926087847 - (x - (x * x)))))))
-[25.04.2023 19:35:20,832] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 8
-[25.04.2023 19:35:20,832] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 2205, memory free: 93.5 MB
-[25.04.2023 19:35:20,832] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
-[25.04.2023 19:35:20,832] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5191189612879172 / 0.5191189612879172) + (x * (x * (0.49954679926087847 - (x - (0.49954679926087847 - (x - (x * x)))))))
-[25.04.2023 19:35:20,832] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 8
-[25.04.2023 19:35:20,832] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 2206, memory free: 93.5 MB
-[25.04.2023 19:35:20,833] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
-[25.04.2023 19:35:20,833] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5191189612879172 / 0.5191189612879172) + (x * (x * (0.49954679926087847 - (x - (0.49954679926087847 - (x - (x * x)))))))
-[25.04.2023 19:35:20,833] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 8
-[25.04.2023 19:35:20,833] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 2207, memory free: 92.5 MB
-[25.04.2023 19:35:20,833] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
-[25.04.2023 19:35:20,833] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5191189612879172 / 0.5191189612879172) + (x * (x * (0.49954679926087847 - (x - (0.49954679926087847 - (x - (x * x)))))))
-[25.04.2023 19:35:20,833] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 8
-[25.04.2023 19:35:20,833] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 2208, memory free: 92.5 MB
-[25.04.2023 19:35:20,834] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
-[25.04.2023 19:35:20,834] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5191189612879172 / 0.5191189612879172) + (x * (x * (0.49954679926087847 - (x - (0.49954679926087847 - (x - (x * x)))))))
-[25.04.2023 19:35:20,834] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 8
-[25.04.2023 19:35:20,834] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 2209, memory free: 91.5 MB
-[25.04.2023 19:35:20,834] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
-[25.04.2023 19:35:20,834] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5191189612879172 / 0.5191189612879172) + (x * (x * (0.49954679926087847 - (x - (0.49954679926087847 - (x - (x * x)))))))
-[25.04.2023 19:35:20,834] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 8
-[25.04.2023 19:35:20,834] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 2210, memory free: 91.5 MB
-[25.04.2023 19:35:20,835] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
-[25.04.2023 19:35:20,835] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5191189612879172 / 0.5191189612879172) + (x * (x * (0.49954679926087847 - (x - (0.49954679926087847 - (x - (x * x)))))))
-[25.04.2023 19:35:20,835] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 8
-[25.04.2023 19:35:20,835] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 2211, memory free: 91.5 MB
-[25.04.2023 19:35:20,835] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
-[25.04.2023 19:35:20,835] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5191189612879172 / 0.5191189612879172) + (x * (x * (0.49954679926087847 - (x - (0.49954679926087847 - (x - (x * x)))))))
-[25.04.2023 19:35:20,835] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 8
-[25.04.2023 19:35:20,835] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 2212, memory free: 90.5 MB
-[25.04.2023 19:35:20,835] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
-[25.04.2023 19:35:20,835] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5191189612879172 / 0.5191189612879172) + (x * (x * (0.49954679926087847 - (x - (0.49954679926087847 - (x - (x * x)))))))
-[25.04.2023 19:35:20,835] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 8
-[25.04.2023 19:35:20,835] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 2213, memory free: 90.5 MB
-[25.04.2023 19:35:20,836] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
-[25.04.2023 19:35:20,836] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5191189612879172 / 0.5191189612879172) + (x * (x * (0.49954679926087847 - (x - (0.49954679926087847 - (x - (x * x)))))))
-[25.04.2023 19:35:20,836] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 8
-[25.04.2023 19:35:20,836] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 2214, memory free: 89.5 MB
-[25.04.2023 19:35:20,836] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
-[25.04.2023 19:35:20,836] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5191189612879172 / 0.5191189612879172) + (x * (x * (0.49954679926087847 - (x - (0.49954679926087847 - (x - (x * x)))))))
-[25.04.2023 19:35:20,836] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 8
-[25.04.2023 19:35:20,836] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 2215, memory free: 89.5 MB
-[25.04.2023 19:35:20,837] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
-[25.04.2023 19:35:20,837] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5191189612879172 / 0.5191189612879172) + (x * (x * (0.49954679926087847 - (x - (0.49954679926087847 - (x - (x * x)))))))
-[25.04.2023 19:35:20,837] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 8
-[25.04.2023 19:35:20,837] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 2216, memory free: 88.5 MB
-[25.04.2023 19:35:20,839] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
-[25.04.2023 19:35:20,839] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5191189612879172 / 0.5191189612879172) + (x * (x * (0.49954679926087847 - (x - (0.49954679926087847 - (x - (x * x)))))))
-[25.04.2023 19:35:20,839] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 8
-[25.04.2023 19:35:20,839] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 2217, memory free: 88.5 MB
-[25.04.2023 19:35:20,839] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 3.750000000124487E-5
-[25.04.2023 19:35:20,839] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5191189612879172 / 0.5191189612879172) + ((x - (x * x)) * (x - (x * x)))
-[25.04.2023 19:35:20,839] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[25.04.2023 19:37:10,816] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,816] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8330, memory free: 166.5 MB
+[25.04.2023 19:37:10,817] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1.68
+[25.04.2023 19:37:10,817] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.5717203545737957 + 0.4167808342147563) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,817] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,817] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8331, memory free: 165.5 MB
+[25.04.2023 19:37:10,817] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1.68
+[25.04.2023 19:37:10,817] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.5717203545737957 + 0.4167808342147563) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,817] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,817] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8332, memory free: 165.5 MB
+[25.04.2023 19:37:10,817] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1.68
+[25.04.2023 19:37:10,817] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.5717203545737957 + 0.4167808342147563) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,817] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,817] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8333, memory free: 164.5 MB
+[25.04.2023 19:37:10,818] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1.68
+[25.04.2023 19:37:10,818] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.5717203545737957 + 0.4167808342147563) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,818] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,818] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8334, memory free: 164.5 MB
+[25.04.2023 19:37:10,818] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1.68
+[25.04.2023 19:37:10,818] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.5717203545737957 + 0.4167808342147563) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,818] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,818] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8335, memory free: 163.5 MB
+[25.04.2023 19:37:10,819] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1.68
+[25.04.2023 19:37:10,819] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.5717203545737957 + 0.4167808342147563) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,819] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,819] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8336, memory free: 163.5 MB
+[25.04.2023 19:37:10,819] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1.68
+[25.04.2023 19:37:10,819] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.5717203545737957 + 0.4167808342147563) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,819] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,819] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8337, memory free: 163.5 MB
+[25.04.2023 19:37:10,819] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1.68
+[25.04.2023 19:37:10,819] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.5717203545737957 + 0.4167808342147563) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,819] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,819] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8338, memory free: 162.5 MB
+[25.04.2023 19:37:10,820] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1.68
+[25.04.2023 19:37:10,820] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.5717203545737957 + 0.4167808342147563) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,820] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,820] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8339, memory free: 162.5 MB
+[25.04.2023 19:37:10,820] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1.68
+[25.04.2023 19:37:10,820] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.5717203545737957 + 0.4167808342147563) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,820] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,820] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8340, memory free: 161.5 MB
+[25.04.2023 19:37:10,821] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1.68
+[25.04.2023 19:37:10,821] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.5717203545737957 + 0.4167808342147563) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,821] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,821] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8341, memory free: 161.5 MB
+[25.04.2023 19:37:10,821] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1.68
+[25.04.2023 19:37:10,821] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.5717203545737957 + 0.4167808342147563) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,821] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,821] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8342, memory free: 160.5 MB
+[25.04.2023 19:37:10,822] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1.68
+[25.04.2023 19:37:10,822] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.5717203545737957 + 0.4167808342147563) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,822] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,822] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8343, memory free: 160.5 MB
+[25.04.2023 19:37:10,822] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1.68
+[25.04.2023 19:37:10,822] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.5717203545737957 + 0.4167808342147563) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,822] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,822] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8344, memory free: 159.5 MB
+[25.04.2023 19:37:10,822] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1.68
+[25.04.2023 19:37:10,823] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.5717203545737957 + 0.4167808342147563) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,823] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,823] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8345, memory free: 159.5 MB
+[25.04.2023 19:37:10,823] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1.68
+[25.04.2023 19:37:10,823] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.5717203545737957 + 0.4167808342147563) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,823] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,823] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8346, memory free: 158.5 MB
+[25.04.2023 19:37:10,823] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1.68
+[25.04.2023 19:37:10,823] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.5717203545737957 + 0.4167808342147563) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,823] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,823] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8347, memory free: 158.5 MB
+[25.04.2023 19:37:10,824] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1.68
+[25.04.2023 19:37:10,824] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.5717203545737957 + 0.4167808342147563) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,824] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,824] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8348, memory free: 158.5 MB
+[25.04.2023 19:37:10,824] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.88
+[25.04.2023 19:37:10,824] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.9988452906587868 / 0.9988452906587868) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,824] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,824] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8349, memory free: 157.5 MB
+[25.04.2023 19:37:10,825] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.88
+[25.04.2023 19:37:10,825] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.9988452906587868 / 0.9988452906587868) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,825] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,825] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8350, memory free: 157.5 MB
+[25.04.2023 19:37:10,825] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.88
+[25.04.2023 19:37:10,825] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.9988452906587868 / 0.9988452906587868) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,825] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,825] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8351, memory free: 156.5 MB
+[25.04.2023 19:37:10,825] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.88
+[25.04.2023 19:37:10,825] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.9988452906587868 / 0.9988452906587868) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,825] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,825] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8352, memory free: 156.5 MB
+[25.04.2023 19:37:10,826] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.88
+[25.04.2023 19:37:10,826] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.9988452906587868 / 0.9988452906587868) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,826] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,826] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8353, memory free: 155.5 MB
+[25.04.2023 19:37:10,826] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.88
+[25.04.2023 19:37:10,826] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.9988452906587868 / 0.9988452906587868) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,826] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,826] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8354, memory free: 155.5 MB
+[25.04.2023 19:37:10,827] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.88
+[25.04.2023 19:37:10,827] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.9988452906587868 / 0.9988452906587868) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,827] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,827] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8355, memory free: 154.5 MB
+[25.04.2023 19:37:10,827] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.88
+[25.04.2023 19:37:10,827] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.9988452906587868 / 0.9988452906587868) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,828] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,828] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8356, memory free: 154.5 MB
+[25.04.2023 19:37:10,828] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.88
+[25.04.2023 19:37:10,828] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.9988452906587868 / 0.9988452906587868) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,828] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,828] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8357, memory free: 153.5 MB
+[25.04.2023 19:37:10,829] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.88
+[25.04.2023 19:37:10,829] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.9988452906587868 / 0.9988452906587868) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,829] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,829] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8358, memory free: 153.5 MB
+[25.04.2023 19:37:10,829] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.88
+[25.04.2023 19:37:10,829] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.9988452906587868 / 0.9988452906587868) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,829] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,829] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8359, memory free: 153.5 MB
+[25.04.2023 19:37:10,830] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.88
+[25.04.2023 19:37:10,830] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.9988452906587868 / 0.9988452906587868) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,830] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,830] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8360, memory free: 152.5 MB
+[25.04.2023 19:37:10,831] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.88
+[25.04.2023 19:37:10,831] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.9988452906587868 / 0.9988452906587868) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,831] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,831] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8361, memory free: 152.5 MB
+[25.04.2023 19:37:10,831] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.88
+[25.04.2023 19:37:10,831] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.9988452906587868 / 0.9988452906587868) - x) * x) * (((0.5717203545737957 + 0.4167808342147563) - x) * x))
+[25.04.2023 19:37:10,831] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,831] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8362, memory free: 151.5 MB
+[25.04.2023 19:37:10,831] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.23
+[25.04.2023 19:37:10,831] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.9988452906587868 / 0.9988452906587868) - x) * x) * (((0.9988452906587868 / 0.9988452906587868) - x) * x))
+[25.04.2023 19:37:10,833] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,833] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8363, memory free: 151.5 MB
+[25.04.2023 19:37:10,834] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.23
+[25.04.2023 19:37:10,834] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.9988452906587868 / 0.9988452906587868) - x) * x) * (((0.9988452906587868 / 0.9988452906587868) - x) * x))
+[25.04.2023 19:37:10,834] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,834] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8364, memory free: 150.5 MB
+[25.04.2023 19:37:10,834] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.23
+[25.04.2023 19:37:10,834] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.9988452906587868 / 0.9988452906587868) - x) * x) * (((0.9988452906587868 / 0.9988452906587868) - x) * x))
+[25.04.2023 19:37:10,834] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,834] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8365, memory free: 150.5 MB
+[25.04.2023 19:37:10,835] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.23
+[25.04.2023 19:37:10,835] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.9988452906587868 / 0.9988452906587868) - x) * x) * (((0.9988452906587868 / 0.9988452906587868) - x) * x))
+[25.04.2023 19:37:10,835] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,835] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8366, memory free: 150.5 MB
+[25.04.2023 19:37:10,835] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.23
+[25.04.2023 19:37:10,835] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.9988452906587868 / 0.9988452906587868) - x) * x) * (((0.9988452906587868 / 0.9988452906587868) - x) * x))
+[25.04.2023 19:37:10,836] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,836] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8367, memory free: 149.5 MB
+[25.04.2023 19:37:10,837] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.23
+[25.04.2023 19:37:10,837] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.9988452906587868 / 0.9988452906587868) - x) * x) * (((0.9988452906587868 / 0.9988452906587868) - x) * x))
+[25.04.2023 19:37:10,837] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,837] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8368, memory free: 149.5 MB
+[25.04.2023 19:37:10,837] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.23
+[25.04.2023 19:37:10,837] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.9988452906587868 / 0.9988452906587868) - x) * x) * (((0.9988452906587868 / 0.9988452906587868) - x) * x))
+[25.04.2023 19:37:10,837] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,837] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8369, memory free: 148.5 MB
+[25.04.2023 19:37:10,838] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.23
+[25.04.2023 19:37:10,838] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.9988452906587868 / 0.9988452906587868) - x) * x) * (((0.9988452906587868 / 0.9988452906587868) - x) * x))
+[25.04.2023 19:37:10,838] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,838] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8370, memory free: 148.5 MB
+[25.04.2023 19:37:10,838] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.23
+[25.04.2023 19:37:10,838] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.9988452906587868 / 0.9988452906587868) - x) * x) * (((0.9988452906587868 / 0.9988452906587868) - x) * x))
+[25.04.2023 19:37:10,838] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,838] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8371, memory free: 148.5 MB
+[25.04.2023 19:37:10,839] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.23
+[25.04.2023 19:37:10,839] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.9988452906587868 / 0.9988452906587868) - x) * x) * (((0.9988452906587868 / 0.9988452906587868) - x) * x))
+[25.04.2023 19:37:10,839] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,839] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8372, memory free: 147.5 MB
+[25.04.2023 19:37:10,839] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.23
+[25.04.2023 19:37:10,839] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.9988452906587868 / 0.9988452906587868) - x) * x) * (((0.9988452906587868 / 0.9988452906587868) - x) * x))
+[25.04.2023 19:37:10,839] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,839] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8373, memory free: 147.5 MB
+[25.04.2023 19:37:10,840] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.23
+[25.04.2023 19:37:10,840] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.9988452906587868 / 0.9988452906587868) - x) * x) * (((0.9988452906587868 / 0.9988452906587868) - x) * x))
+[25.04.2023 19:37:10,840] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,840] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8374, memory free: 146.5 MB
+[25.04.2023 19:37:10,840] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.23
+[25.04.2023 19:37:10,840] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.9988452906587868 / 0.9988452906587868) - x) * x) * (((0.9988452906587868 / 0.9988452906587868) - x) * x))
+[25.04.2023 19:37:10,840] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,840] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8375, memory free: 146.5 MB
+[25.04.2023 19:37:10,841] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.23
+[25.04.2023 19:37:10,841] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.9988452906587868 / 0.9988452906587868) - x) * x) * (((0.9988452906587868 / 0.9988452906587868) - x) * x))
+[25.04.2023 19:37:10,841] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,841] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8376, memory free: 145.5 MB
+[25.04.2023 19:37:10,841] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.23
+[25.04.2023 19:37:10,841] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.9988452906587868 / 0.9988452906587868) - x) * x) * (((0.9988452906587868 / 0.9988452906587868) - x) * x))
+[25.04.2023 19:37:10,841] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,841] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8377, memory free: 145.5 MB
+[25.04.2023 19:37:10,842] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.23
+[25.04.2023 19:37:10,842] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.5717203545737957 + 0.4167808342147563) + ((((0.9988452906587868 / 0.9988452906587868) - x) * x) * (((0.9988452906587868 / 0.9988452906587868) - x) * x))
+[25.04.2023 19:37:10,842] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[25.04.2023 19:37:10,842] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 8378, memory free: 144.5 MB
+[25.04.2023 19:37:10,842] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 3.750000000124487E-5
+[25.04.2023 19:37:10,842] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (0.9988452906587868 / 0.9988452906587868) + ((((0.9988452906587868 / 0.9988452906587868) - x) * x) * (((0.9988452906587868 / 0.9988452906587868) - x) * x))
+[25.04.2023 19:37:10,842] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
