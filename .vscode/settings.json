@@ -1,10 +1,8 @@
 {
-    "java.project.referencedLibraries": {
-        "include": [
-            "lib/**/*.jar",
-            "jgap.jar",
-            "/Users/calvin/Downloads/apache-logging-log4j.jar",
-            "/Users/calvin/Downloads/commons-lang-2.6/commons-lang-2.6.jar"
-        ]
-    }
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "jgap.jar",
+        "apache-logging-log4j.jar",
+        "commons-lang-2.6.jar"
+    ]
 }

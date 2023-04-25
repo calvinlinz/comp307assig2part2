@@ -63,7 +63,12 @@ class GeneticTest extends GPProblem {
 
         GPGenotype gp = problem.create();
         gp.setVerboseOutput(true);
-        gp.evolve(10000);
+        int count = 0;
+        while(gp.getFittestProgram().getFitnessValue() > 0.001 && count < 10000){
+            gp.evolve(1);
+            count++;
+        }
+
         gp.outputSolution(gp.getAllTimeBest());
     }
 
