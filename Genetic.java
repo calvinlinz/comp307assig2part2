@@ -1,6 +1,4 @@
 import java.io.File;
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Scanner;
 
 import org.jgap.InvalidConfigurationException;
@@ -9,25 +7,22 @@ import org.jgap.gp.GPFitnessFunction;
 import org.jgap.gp.GPProblem;
 import org.jgap.gp.IGPProgram;
 import org.jgap.gp.function.Add;
-import org.jgap.gp.function.Cosine;
 import org.jgap.gp.function.Divide;
 import org.jgap.gp.function.Multiply;
-import org.jgap.gp.function.Sine;
 import org.jgap.gp.function.Subtract;
-import org.jgap.gp.function.Tangent;
 import org.jgap.gp.impl.DeltaGPFitnessEvaluator;
 import org.jgap.gp.impl.GPConfiguration;
 import org.jgap.gp.impl.GPGenotype;
 import org.jgap.gp.terminal.Terminal;
 import org.jgap.gp.terminal.Variable;
 
-class GeneticTest extends GPProblem {
+class GeneticProgram extends GPProblem {
     public static Double[] inputs = new Double[20];
     public static Double[] outputs = new Double[20];
 
     public Variable input;
 
-    public GeneticTest() throws InvalidConfigurationException {
+    public GeneticProgram() throws InvalidConfigurationException {
         super(new GPConfiguration());
 
         GPConfiguration config = getGPConfiguration();
@@ -60,7 +55,7 @@ class GeneticTest extends GPProblem {
     public static void main(String[] args) throws Exception {
         readFile(new File("regression.txt"));
 
-        GPProblem problem = new GeneticTest();
+        GPProblem problem = new GeneticProgram();
 
         GPGenotype gp = problem.create();
         gp.setVerboseOutput(true);
