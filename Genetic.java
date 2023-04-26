@@ -9,9 +9,12 @@ import org.jgap.gp.GPFitnessFunction;
 import org.jgap.gp.GPProblem;
 import org.jgap.gp.IGPProgram;
 import org.jgap.gp.function.Add;
+import org.jgap.gp.function.Cosine;
 import org.jgap.gp.function.Divide;
 import org.jgap.gp.function.Multiply;
+import org.jgap.gp.function.Sine;
 import org.jgap.gp.function.Subtract;
+import org.jgap.gp.function.Tangent;
 import org.jgap.gp.impl.DeltaGPFitnessEvaluator;
 import org.jgap.gp.impl.GPConfiguration;
 import org.jgap.gp.impl.GPGenotype;
@@ -45,9 +48,7 @@ class GeneticTest extends GPProblem {
             int count = 0;
             while (sc.hasNextLine()) {
                 inputs[count] = sc.nextDouble();
-                ;
                 outputs[count] = sc.nextDouble();
-                ;
                 count++;
             }
             sc.close();
@@ -87,7 +88,8 @@ class GeneticTest extends GPProblem {
                         new Subtract(config, CommandGene.DoubleClass),
                         new Multiply(config, CommandGene.DoubleClass),
                         new Divide(config, CommandGene.DoubleClass),
-                        new Terminal(config, CommandGene.DoubleClass, 0.0, 1.0)
+                        new Terminal(config, CommandGene.DoubleClass, 0, 10,true),
+                        
                 }
         };
 
